@@ -1,0 +1,6 @@
+*.auth
+*.crt
+*.efi
+*.esl
+*.key
+*.var
